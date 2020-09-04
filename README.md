@@ -1,2 +1,2 @@
-# LogicalCircuit-Lab
-HUST数字逻辑实验
+# UGP-HustLab-LogicalCircuit
+[undergraduate coursework in hust] Labs of Logical Circuit. (using logisim)
